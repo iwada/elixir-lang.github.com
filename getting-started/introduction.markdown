@@ -58,6 +58,7 @@ IO.puts "Hello world from Elixir"
 ```
 
 Save it as `simple.exs` and execute it with `elixir`:
+You should run elixir simple.exs from the shell, not inside iex
 
 ```bash
 $ elixir simple.exs
